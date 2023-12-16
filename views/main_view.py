@@ -20,3 +20,6 @@ def loadView(loc):
             exit()
         else:
             home_view.Main(0)
+    finally:
+        print("Goodbye :'")
+        exit()

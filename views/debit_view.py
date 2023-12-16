@@ -16,7 +16,6 @@ def Main():
                 "tgl":tgl
             }
             controllerDebit.add(data)
-
     except:
         t = input("\nKembali? [Y/n] :")
         if(t == 'Y'):
