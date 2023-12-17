@@ -1,3 +1,8 @@
+Requirement : 
+- Python 3.10 >=
+- Pandas Library
+
+
 1.	Buka main.py lalu running program. 
 ![image](https://github.com/abdanhafidz/simple-finance-system-final-project-sem1-discreate-math/assets/71253590/8f8437b3-3978-4cf7-95d4-ab8a99c45edc)
 2.	Ketik 1 : Menambahkan uang masuk
