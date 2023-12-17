@@ -1,6 +1,6 @@
 Requirement : 
 - Python 3.10 >=
-- Pandas Library
+- Pandas Library : https://pandas.pydata.org/getting_started.html
 
 
 1.	Buka main.py lalu running program. 
