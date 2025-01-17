@@ -1,4 +1,4 @@
-Requirement : 
+Requirements : 
 - Python 3.10 >=
 - Pandas Library : https://pandas.pydata.org/getting_started.html
 
